@@ -5,6 +5,8 @@
 //  Created by admin on 16/8/8.
 //  Copyright © 2016年 AlezJi. All rights reserved.
 //
+//http://www.jianshu.com/p/abb90abfcda8
+//用UICollectionView实现酷炫的推拉效果
 
 #import "DragCollectionViewController.h"
 #import "DragCollectionViewCell.h"
